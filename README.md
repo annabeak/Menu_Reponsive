@@ -5,7 +5,7 @@ dispositivos/viewports.
 
 ## Linguagens
 
-As linguagens utilizadas para construir o Mobile Friendly, são as seguintes:
+As linguagens utilizadas para construir o Mobile Friendly, são:
 
 **• CSS**
 
